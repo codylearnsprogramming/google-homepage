@@ -1,0 +1,22 @@
+body{
+	background-color: white;
+}
+img{
+	height: 20%;width: 30%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15%;
+
+	top:30px;
+}
+input{
+	height: 30px; width: 500px;
+	top: 42px;
+
+	display: block;
+	margin: auto;
+
+	border: 1px solid black;
+}
+
